@@ -1,0 +1,14 @@
+{
+  "full_name": "Tucker Beck",
+  "email": "tucker.beck@gmail.com",
+  "github_username": "dusktreader",
+  "project_name": "Dusky's Cookiecutter",
+  "project_slug": "dusky-cookiecutter",
+  "project_package": "dusky_cookiecutter",
+  "project_description": "Boilerplate for the sort of python packages I usually make",
+  "pypi_username": "dusktreader",
+  "version": "0.1",
+  "release": "0.1.0",
+  "python_versions": [ ["3.4", "3.5", "3.6", "3.7"], ["3.6", "3.7"] ],
+  "python_deploy_version": "3.6"
+}
